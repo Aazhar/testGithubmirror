@@ -1,39 +1,24 @@
 <!--
-Please answer these questions before submitting your issue. Thanks!
-For questions please use one of our forums: https://github.com/golang/go/wiki/Questions
+Renseigner le ticket original de support 
 -->
 
-### What version of Go are you using (`go version`)?
-
-<pre>
-$ go version
-
-</pre>
-
-### Does this issue reproduce with the latest release?
+##### Numero du ticket support : 
 
 
+##### En étant (déposant , administrateur portail, moderateur, administrateur) :
 
-### What operating system and processor architecture are you using (`go env`)?
 
-<details><summary><code>go env</code> Output</summary><br><pre>
-$ go env
+##### Je rencontre un probléme pour :
 
-</pre></details>
 
-### What did you do?
+##### Je souhaite :
 
+##### Afin de :
+
+
+##### Critère d'acceptation :
 <!--
-If possible, provide a recipe for reproducing the error.
-A complete runnable program is good.
-A link on play.golang.org is best.
+Si possible donner plus de détails sur le travail à accomplir
 -->
-
-
-
-### What did you expect to see?
-
-
-
-### What did you see instead?
-
+* [ ] task1
+* [ ] task2
